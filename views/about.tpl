@@ -25,8 +25,7 @@
     I enjoy playing basketball and support team NBA team, Bucks.
     
     </p>
-    <img src="image.png">
-    </body>
-    
+    <!DOCTYPE html>
+    <img src="/static/image.png" alt="William playing basketball">
 </body>
 </html>
