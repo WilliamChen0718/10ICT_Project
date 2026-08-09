@@ -1,8 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:p;
     margin: 40px;
-    background-color: #ffffff;
-    color: #333;
+    
+    width: 1100px;
+    background: linear-gradient(90deg,rgba(255, 41, 41, 1) 0%, rgba(255, 255, 255, 0.23) 50%, rgba(0, 0, 130, 1) 500%);  
+    color: rgb(0, 0, 139);
 }
 
 nav {
