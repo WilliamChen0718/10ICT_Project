@@ -3,13 +3,13 @@ body {
     margin: 40px;
     
     width: 1100px;
-    background: linear-gradient(90deg,rgba(255, 41, 41, 1) 0%, rgba(255, 255, 255, 0.23) 50%, rgba(0, 0, 130, 1) 500%);  
+    background: #e4d72c;
     color: rgb(0, 0, 139);
 }
 
 nav {
     margin-bottom: 20px;
-    background: #534b4b;
+    background: #e4d72c;
     padding: 10px;
 }
 
