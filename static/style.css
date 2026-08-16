@@ -1,15 +1,16 @@
+
 body {
-    font-family:p;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 40px;
     
     width: 1100px;
     background: #e4d72c;
-    color: rgb(0, 0, 139);
+    color: rgb(255, 255, 255);
 }
 
 nav {
     margin-bottom: 20px;
-    background: #e4d72c;
+    background: #c9bd14;
     padding: 10px;
 }
 
@@ -23,6 +24,9 @@ nav a:hover {
     text-decoration: underline;
 }
 
+h1,h2 {
+    color: #1d2269;
+}
 h1 {
-    color: #444;
+    font-family:'Courier New', Courier, monospace
 }
