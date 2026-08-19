@@ -30,7 +30,7 @@
         </div>
         
         <div>
-            <img src="/static/image.png" alt="William photo">
+            <img src="/static/image.png" alt="William photo, class="img">
         </div>
     </div>
 </body>
