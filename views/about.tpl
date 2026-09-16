@@ -21,12 +21,9 @@
         
         <div>
             <h2>My bio</h2>
-            <p>I am 14 years old and attend Sacred Heart College. I am a year 10 student and began my education here in 2023.</p>
-        </div>
-        
-        <div>
-            <h2>Hobbies</h2>
-            <p>I enjoy playing basketball and support NBA team, Bucks.</p>
+            <p>My time at Sacred Heart College has been a really important part of my life. One of the highlights has been playing basketball and representing the school at AIMS Games. Basketball has taught me the importance of teamwork, discipline, commitment and pushing myself to improve. Going to AIMS Games gave me the opportunity to compete at a high level, meet new people and create memories with my teammates. These experiences have helped me grow not only as an athlete, but also as a person, teaching me to support others, stay determined and never give up when things get difficult.
+
+My time at Sacred Heart has also helped me understand what it means to become a Marist man. Through the values of the school, I have learned the importance of respect, humility, service and looking out for others. My faith has also become stronger during my time at the college. Being part of the Sacred Heart community has encouraged me to reflect on my beliefs and strengthen my relationship with God. Overall, my experiences at Sacred Heart, both on and off the basketball court, have helped shape who I am and have given me values that I will carry with me into the future.</p>
         </div>
         
         <div>
