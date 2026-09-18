@@ -1,9 +1,9 @@
 
 
 body {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin: 40px;
-    
+    font-family: 'Poppins', Arial, sans-serif;
+    margin: 0;
+    background-color: white;
     width: 1100px;
     background: #ffffff;
     color: rgb(0, 0, 0);
@@ -31,7 +31,13 @@ h1,h2 {
 }
 h1 {
     font-family:'Courier New', Courier, monospace
+    color: #2a3650;
 }
+
+h1:first-child {
+    margin-top: 30px;
+}
+
 .img {
   width: 150px;           /* Must have equal width and height */
   height: 150px;          
@@ -39,4 +45,23 @@ h1 {
   border: 4px solid #000000; /* Dark blue color hex */
   object-fit: cover;     /* Prevents distortion if the original image isn't square */
 }
+
+
+/* Centers the GIF on your page and adds clean spacing */
+.gif-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: fit-content; /* Keeps the background crisp around the GIF dimensions */
+}
+
+/* Optional: Ensures the iframe handles modern responsive borders nicely */
+.giphy-embed {
+    border-radius: 8px;
+    display: block;
 }
