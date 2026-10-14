@@ -2,9 +2,8 @@
 
 body {
     font-family: 'Poppins', Arial, sans-serif;
-    color:rgb(52, 47, 95)
+    background-color:rgb(52, 47, 95);
     width: 1100px;
-    color: rgb(255, 255, 255);
     margin: 40px auto
 }
 

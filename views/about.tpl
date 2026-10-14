@@ -12,9 +12,6 @@
             <a href="/contact">Contact</a>
         </nav>
     </div>
-
-    <div>
-        <h1>About Us</h1>
         
         <h2>William Chen</h2> 
         
