@@ -6,9 +6,10 @@
 </head>
 <body>
     <nav>
-        <a href="/">Home</a>
+        
         <a href="/about">About</a>
-        <a href="/contact">Contact</a>
+        <a href="/contact">Family Spirit</a>
+        <a href="/">In the Way of Mary</a>
     </nav>
 
     <h1>Welcome to the Home Page</h1>

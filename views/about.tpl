@@ -6,10 +6,10 @@
 </head>
 <body>
     <div>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/about">About</a>
-            <a href="/contact">Contact</a>
+   <nav>
+        <a href="/about">About</a>
+        <a href="/contact">Family Spirit</a>
+        <a href="/">In the Way of Mary</a>
         </nav>
     </div>
         

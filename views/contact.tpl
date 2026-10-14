@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pillar Page</title>
+    <title>Family Spirit Page</title>
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
     <nav>
-        <a href="/">Home</a>
         <a href="/about">About</a>
-        <a href="/contact">Pillar</a>
+        <a href="/contact">Family Spirit</a>
+        <a href="/">In the Way of Mary</a>
     </nav>
 
     <h1>Contact Us</h1>
