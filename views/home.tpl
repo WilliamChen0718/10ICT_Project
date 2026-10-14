@@ -13,5 +13,8 @@
 
     <h1>Welcome to the Home Page</h1>
     <p>This is the main page of our Bottle app.</p>
+            <div>
+            <img src="/static/pillar2.png" alt="pillartwo photo, class="img">
+        </div>
 </body>
 </html>
