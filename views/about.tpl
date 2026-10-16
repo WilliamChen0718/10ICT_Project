@@ -27,17 +27,7 @@ My time at Sacred Heart has also helped me understand what it means to become a 
         <div>
             <img src="/static/image.png" alt="William photo, class="img">
         </div>
-        <div class="gif-container">
-    <!-- Your GIPHY Embed Code -->
-    <iframe src="https://giphy.com/embed/RnRoYBonDZKOYKUNyD" 
-            width="480" 
-            height="271" 
-            frameBorder="0" 
-            class="giphy-embed" 
-            allowFullScreen>
-    </iframe>
-    </div>
-
+       
     </div>
 </body>
 </html>

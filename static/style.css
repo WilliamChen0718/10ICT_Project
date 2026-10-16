@@ -1,3 +1,10 @@
+header {
+    margin-bottom: 20px;
+    background: radial-gradient(circle,rgba(255, 255, 255, 1) 0%, rgba(125, 138, 163, 1) 70%, rgb(52, 47, 95) 100%);
+    padding: 33px;
+    margin: 50px;
+    font-family: fantasy;
+}
 
 
 body {
