@@ -29,22 +29,22 @@
 
     <img src="/static/image.png" alt="William Chen" class="img">
 
-    <h2>My Values</h2>
+    <h2>My Hobbies</h2>
 
     <div class="cards">
         <div class="card">
-            <h3>Teamwork</h3>
-            <p>Supporting my teammates and working together.</p>
+            <h3>Basketball</h3>
+            <p>I play the power foward position on the SHC Junior Prems team</p>
         </div>
 
         <div class="card">
-            <h3>Commitment</h3>
-            <p>Working hard and always trying to improve.</p>
+            <h3>Volleyball</h3>
+            <p>I enjoy playing volleyball with mate and playing as setter</p>
         </div>
 
         <div class="card">
-            <h3>Faith</h3>
-            <p>Strengthening my relationship with God.</p>
+            <h3>Chess</h3>
+            <p>I also enjoying playing chess once in a while as i find it interesting and makes me think</p>
         </div>
     </div>
 </main>
