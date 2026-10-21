@@ -1,80 +1,138 @@
-header {
-    margin-bottom: 20px;
-    background: radial-gradient(circle,rgba(255, 255, 255, 1) 0%, rgba(125, 138, 163, 1) 70%, rgb(52, 47, 95) 100%);
-    padding: 33px;
-    margin: 50px;
-    font-family: fantasy;
-}
-
 
 body {
-    font-family: 'Poppins', Arial, sans-serif;
-    background-color:rgb(52, 47, 95);
-    width: 1100px;
-    margin:80px 
+    font-family: Arial, sans-serif;
+    background-color: rgb(52, 47, 95);
+    margin: 0;
+    color: white;
+}
+
+/* Header and navigation */
+header {
+    background: radial-gradient(circle, white 0%, rgb(125, 138, 163) 70%, rgb(52, 47, 95) 100%);
+    padding: 25px;
+    text-align: center;
+    margin: 30px auto;
+    width: 1000px;
 }
 
 nav {
-    margin-bottom: 20px;
-    background: radial-gradient(circle,rgba(255, 255, 255, 1) 0%, rgba(125, 138, 163, 1) 70%, rgb(52, 47, 95) 100%);
-    padding: 33px;
-    margin: 50px;
-    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
 }
 
 nav a {
     color: white;
     text-decoration: none;
-    margin-right: 45px;
-    margin: 40px auto
+    font-family: fantasy;
+    font-size: 20px;
 }
 
 nav a:hover {
+    color: #e47878;
     text-decoration: underline;
-    margin: 40px auto
+}
+
+/* Main content */
+main {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Courier New', monospace;
+    text-align: center;
 }
 
 h2 {
     color: #e47878;
-    margin: 40px auto;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-}
-h1 {
-    font-family:'Courier New', Courier, monospace;
-    color: #ffffff;
-    margin: 40px auto
+    text-align: center;
+    margin-top: 35px;
 }
 
-h3 {color:white}
-
-h1:first-child {
-    margin-top: 30px;
-    margin: 40px auto
+h3 {
+    color: #e47878;
 }
 
-.img {
-    border-left-color: #e47878;
-    border-top: #e47878;
-    border: image width 33px;
+p {
+    line-height: 1.7;
 }
 
+/* White content boxes */
+.content {
+    background-color: white;
+    color: rgb(52, 47, 95);
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 10px;
+}
 
+.content h3 {
+    color: #e47878;
+}
 
-/* Centers the GIF on your page and adds clean spacing */
-.gif-container {
+/* Three simple cards */
+.cards {
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin: 40px auto;
-    padding: 10px;
-    background-color: #f9f9f9;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    max-width: fit-content; /* Keeps the background crisp around the GIF dimensions */
+    gap: 25px;
+    margin: 25px 0;
 }
 
-/* Optional: Ensures the iframe handles modern responsive borders nicely */
-.giphy-embed {
-    border-radius: 8px;
+.card {
+    background-color: white;
+    color: rgb(52, 47, 95);
+    padding: 20px;
+    width: 30%;
+    border-radius: 10px;
+    border-bottom: 4px solid #e47878;
+}
+
+.card h3 {
+    margin-top: 0;
+}
+
+/* Images */
+.img {
     display: block;
+    max-width: 100%;
+    max-height: 400px;
+    margin: 25px auto;
+    border: 3px solid #e47878;
+    border-radius: 10px;
+}
+
+/* GIF */
+.gif-container {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    margin: 30px auto;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.giphy-embed {
+    display: block;
+    border: none;
+}
+
+/* Footer */
+footer {
+    background: radial-gradient(circle, white 0%, rgb(125, 138, 163) 70%, rgb(52, 47, 95) 100%);
+    padding: 15px;
+    text-align: center;
+    margin-top: 40px;
+}
+.about-page {
+    background: linear-gradient(
+        120deg,
+        #ffffff 0%,
+        #ffffff 50%,
+        #800020 50%,
+        #800020 100%
+    );
+    min-height: 100vh;
 }
